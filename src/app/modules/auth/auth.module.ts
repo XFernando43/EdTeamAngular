@@ -7,7 +7,7 @@ import { LoginPageComponent } from './components/login-page/login-page.component
 
 @NgModule({
   declarations: [
-    LoginPageComponent
+    LoginPageComponent,
   ],
   imports: [
     CommonModule,
